@@ -44,15 +44,15 @@ Het probleem dat kunstmatige intelligentie verbeterd is: de efficiëntie bevorde
 
 
 # Bronnenlijst
-1 CaseGuard. (2022, 18 maart). The Five Basic Components of AI New Software Development. Caseguard. Geraadpleegd van https://caseguard.com/articles/the-five-basic-components-of-ai-new-software-development/
-1 Hetler, A. (2023, 1 oktober). ChatGPT Definition - What is generative AI? Techtarget. Geraadpleegd van https://www.techtarget.com/whatis/definition/ChatGPT#:~:text=What%20is%20generative%20AI%3F,Everything%20you%20need%20to%20know&text=ChatGPT%20now%20uses%20the%20GPT,response%20time%20and%20internet%20plugins/
-1 Dilmegani, C. (2023, 1 oktober). 50 ChatGPT Use Cases in 2023. AImultiple. Geraadpleegd van https://research.aimultiple.com/chatgpt-use-cases/
-Abels, G. (2023, 31 mei). Will ChatGPT AI Replace Fact-Checking? Poynter. Geraadpleegd van https://www.poynter.org/fact-checking/2023/chatgpt-ai-replace-fact-checking/
-1 Marr, B. (2023, 30 mei). 10 Amazing Real-World Examples of How Companies Are Using ChatGPT in 2023. Forbes. Geraadpleegd van https://www.forbes.com/sites/bernardmarr/2023/05/30/10-amazing-real-world-examples-of-how-companies-are-using-chatgpt-in-2023/?sh=69df1e731441
-1 Smith, J. (2023, 3 april). Khanmigo, a ChatGPT Tutor, Is the Next Big Thing in Silicon Valley. The Washington Post. Geraadpleegd van https://www.washingtonpost.com/technology/2023/04/03/chatgpt-khanmigo-tutor-silicon-valley/
-1 Moghaddam, S. & Honey J. (2023, april 22). Boosting Theory-of-Mind Performance in Large Language Models via Prompting. arXiv. Geraadpleegd van https://arxiv.org/abs/2304.11490
-1 Bilbro, J. (2023, 7 juli). What Problem Does ChatGPT Solve? Plough. Geraadpleegd van https://www.plough.com/nl/topics/life/technology/what-problem-does-chatgpt-solve
-1 Wijkman, T. (2023, 30 oktober). G7 publiceert gedragscode om kunstmatige intelligentie veilig te houden. NU.nl. Geraadpleegd van https://www.nu.nl/tech/6287513/g7-publiceert-gedragscode-om-kunstmatige-intelligentie-veilig-te-houden.html
-1 Bakker, S. (2023, 31 augustus). Beeld van AI vaak verkeerd. NEMO Kennislink. Geraadpleegd van https://www.nemokennislink.nl/publicaties/beeld-van-ai-vaak-verkeerd/
-1 Stanford University. (2021). What are the most important advances in AI? Stanford University. Geraadpleegd van https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-1/sq2
-1 FTI Consulting. (2023, 25 juli). Four Risks in the EU's Artificial Intelligence Act. FTI Journal. Geraadpleegd van https://www.fticonsulting.com/insights/fti-journal/four-risks-eus-artificial-intelligence-act#:~:text=Unacceptable%3A%20Applications%20that%20comprise#discreet%20influence
+1. Abels, G. (2023, 31 mei). Will ChatGPT AI Replace Fact-Checking? Poynter. Geraadpleegd van https://www.poynter.org/fact-checking/2023/chatgpt-ai-replace-fact-checking/
+2. Bakker, S. (2023, 31 augustus). Beeld van AI vaak verkeerd. NEMO Kennislink. Geraadpleegd van https://www.nemokennislink.nl/publicaties/beeld-van-ai-vaak-verkeerd/
+3. Bilbro, J. (2023, 7 juli). What Problem Does ChatGPT Solve? Plough. Geraadpleegd van https://www.plough.com/nl/topics/life/technology/what-problem-does-chatgpt-solve
+4. CaseGuard. (2022, 18 maart). The Five Basic Components of AI New Software Development. Caseguard. Geraadpleegd van https://caseguard.com/articles/the-five-basic-components-of-ai-new-software-development/
+5. Dilmegani, C. (2023, 1 oktober). 50 ChatGPT Use Cases in 2023. AImultiple. Geraadpleegd van https://research.aimultiple.com/chatgpt-use-cases/
+6. FTI Consulting. (2023, 25 juli). Four Risks in the EU's Artificial Intelligence Act. FTI Journal. Geraadpleegd van https://www.fticonsulting.com/insights/fti-journal/four-risks-eus-artificial-intelligence-act#:~:text=Unacceptable%3A%20Applications%20that%20comprise#discreet%20influence
+7. Hetler, A. (2023, 1 oktober). ChatGPT Definition - What is generative AI? Techtarget. Geraadpleegd van https://www.techtarget.com/whatis/definition/ChatGPT#:~:text=What%20is%20generative%20AI%3F,Everything%20you%20need%20to%20know&text=ChatGPT%20now%20uses%20the%20GPT,response%20time%20and%20internet%20plugins/
+8. Marr, B. (2023, 30 mei). 10 Amazing Real-World Examples of How Companies Are Using ChatGPT in 2023. Forbes. Geraadpleegd van https://www.forbes.com/sites/bernardmarr/2023/05/30/10-amazing-real-world-examples-of-how-companies-are-using-chatgpt-in-2023/?sh=69df1e731441
+9. Moghaddam, S. & Honey J. (2023, april 22). Boosting Theory-of-Mind Performance in Large Language Models via Prompting. arXiv. Geraadpleegd van https://arxiv.org/abs/2304.11490
+10. Smith, J. (2023, 3 april). Khanmigo, a ChatGPT Tutor, Is the Next Big Thing in Silicon Valley. The Washington Post. Geraadpleegd van https://www.washingtonpost.com/technology/2023/04/03/chatgpt-khanmigo-tutor-silicon-valley/
+11. Stanford University. (2021). What are the most important advances in AI? Stanford University. Geraadpleegd van https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-1/sq2
+12. Wijkman, T. (2023, 30 oktober). G7 publiceert gedragscode om kunstmatige intelligentie veilig te houden. NU.nl. Geraadpleegd van https://www.nu.nl/tech/6287513/g7-publiceert-gedragscode-om-kunstmatige-intelligentie-veilig-te-houden.html
